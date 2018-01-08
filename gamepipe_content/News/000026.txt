@@ -1,0 +1,22 @@
+Special Class Fall 2016 CS-599 Game Development
+08/24/2016
+
+CSCI 599 Game Development is a new course being offered in Fall semester. The syllabus is <a href="https://www.dropbox.com/s/nzcrqdl9skyvp4q/CSCI%20599%20Game%20Development.pdf?dl=0">here</a>.
+
+The abstract for the course:
+
+ "The course will focus on Game Design and Production and will be a project-based class, taking you through all the steps needed to build a high quality game prototype. We'll be covering various topics such as developing game worlds, statistical modeling, mobile and location-based games such as Pokémon Go, and various game production techniques throughout the entire process. The course should act as a great set up for the year long Advanced Game Projects class.”
+
+The course is being taught by two instructors involved in the development of Pokemon Go, Khaled Abdel Rahman & Dan Airey. They have amazingly distinguished bios.
+
+An interview with Khaled is here: <a href="http://news.usc.edu/105198/the-april-fools-joke-that-turned-into-a-global-sensation/">http://news.usc.edu/105198/the-april-fools-joke-that-turned-into-a-global-sensation/</a>
+
+THIS COURSE PREPARES YOU FOR CREATING A WINNING SUBMISSION TO THE ADVANCED GAMES COURSE!
+
+Additionally, it provides you a modern, engineering-focused game design & development course. This course will turn into a required course sometime this academic year.
+
+The course meets Wednesday evenings 7pm to 10:20pm!
+
+Sign up before all the seats are gone!
+
+Michael Zyda, Director, USC GamePipe Laboratory

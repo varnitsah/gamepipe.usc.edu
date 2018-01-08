@@ -1,0 +1,45 @@
+USC GamePipe Laboratory Fall 2016 Showcase
+12/07/2016
+The USC Viterbi School of Engineering celebrates the GamePipe Laboratory’s Fall Showcase on Wednesday the 7th of December 2016, 11am to 2pm Shown at that event will be games & technologies built in classes held in the GamePipe Laboratory Fall semester, including work from the mobile, networked games, immersive, engines & advanced games courses.
+
+REGISTER <a href="https://www.eventbrite.com/e/usc-gamepipe-showcase-tickets-28406551761" rel="external" target="_blank">HERE</a>!
+
+Parking & Directions
+Directions to the USC GamePipe Laboratory are here. We have reserved 40 spaces in Lot 29B, which is enterable from W 27th St at the bend with University Avenue. We have reserved an additional 40 spaces in the John Tracy Clinic immediately next door to the USC GamePipe Laboratory. The John Tracy Clinic parking lot entrance is 806 West Adams Blvd, Los Angeles, CA 90007. The JTC Gate code is 5242 ENTER. Please park in the spaces immediately next to the USC GamePipe Laboratory, 746 West Adams Blvd. Please consider taking the Metro or Uber to our event!
+
+<b>Showcase Agenda</b>
+
+<b>Advanced Games</b>
+The USC GamePipe Laboratory begins its eleventh year of CSCI-529 Advanced Games, the year-long game design & development course founded by the GamePipe Laboratory's Director, Michael Zyda, in Fall 2005. This year's games include students from multiple curricula throughout USC and outside universities such as the prestigious Game Art & Design Program at the Laguna College of Art & Design. The games chosen in the Spring 2016 contest for development over the next two semesters are the following:
+
+1.<b>BoltCraft</b>: A cooperative, wave-based, third-person action game where you customize your robot's abilities and appearance and deploy helpful minions to defend yourself and your team against an onslaught of enemies. Web site is <a href="http://boltcraft.net" rel="external" target="_blank">here</a>.
+2.<b>Threshold</b>: A VR escape room experience in a computer generated environment. Web site is <a href="http://projectthreshold.com " rel="external" target="_blank">here</a>.
+3.<b>Polyminis</b>: A sci­fi sandbox game about evolution; the player takes the role of a god­like entity that travels across the universe and guides evolution of species in diverse planets. Web site is <a href="http://polyminis.com" rel="external" target="_blank">here</a>.
+4.<b>Sub-Earth</b>: An underwater first-person virtual reality adventure game, where players experience an immersive subterranean world and use their wits to navigate a series of challenges to achieve their goals. Web site is <a href="http://sub-earth.wixsite.com/sub-earth" rel="external" target="_blank">here</a>.
+5.<b>Ready or Not</b>: A hide and seek game that brings the excitement of shooters to a non violent scenario. Web site is <a href="http://oddhatsizes.com" rel="external" target="_blank">here</a>.
+6.<b>Arkology</b> - a virtual reality RTS game. Web site is <a href="http://www.arkologygames.com" rel="external" target="_blank">here</a>.
+7.<b>SpyTeam 3030</b>: a spy-themed card game. Web site is here.
+
+<b>Mobile Games</b>
+1.<b>BooBoo</b> - an endless runner for Google cardboard. Web site is <a href="http://uscgamedev.wixsite.com/booboo" rel="external" target="_blank">here</a>.
+2.<b>SpaceMan</b> - VR adventures in space. Web site is <a href="https://spacemangame.github.io" rel="external" target="_blank">here</a>.
+3.<b>Trojans Revival</b> - 3D puzzle game on the USC campus. Web site is <a href="http://crescentyue74.wixsite.com/trojanrevivalv2" rel="external" target="_blank">here</a>.
+4.<b>Prison Escape</b> - a VR locked room adventure. Web site is <a href="http://yunxinwu.wixsite.com/vrprisonescape" rel="external" target="_blank">here</a>.
+5.<b>Ink Fighter</b> - fighting game with a unique artistic style. Web site is <a href="http://www-scf.usc.edu/~xixihuan/cs526/index.html" rel="external" target="_blank">here</a>.
+6.<b>Clash of Rhythm</b> - is a strategy game with music game elements on mobile platforms. The player must conduct tactical movements of characters (units) across grid-based game maps and kill all the enemy units. Web site is here.
+7.<b>AR Mobile Strike</b> - is an augmented reality tower defense game. The goal of the game is to protect the player's fortress from incoming waves of enemies. Web site is here.
+8.<b>Hulu King</b> - is 3D ball rolling game, where the player tries to maneuver around, while avoiding obstacles and other hazards, by changing the ball size. Web site is here.
+
+<b>Networked Games</b>
+1.<b>iStar VR</b> - an online VR community. Web site is <a href="https://www.facebook.com/I-STAR-VR-693631964133039/" rel="external" target="_blank">here</a>.
+2.<b>Surrender</b> - a networked FPS using Unreal with Counterstrike mechanics. Web site is <a href="http://www.tianxiangchang.com/Surrender/" rel="external" target="_blank">here</a>.
+3.<b>Tiny Bob</b> - a cute racing platformer game. Web site is <a href="http://www-scf.usc.edu/~gauderma/tinybob/" rel="external" target="_blank">here</a>.
+
+<b>Game Development</b>
+1.<b>Spark</b> - is a 2.5D space based survival game in which the player must navigate a ship through a series of levels using skill and ingenuity to bypass various types of obstacles and puzzles. Web site is here.
+2.<b>Struggle</b> - is a 3D, first-person exploration game with a dark yet surreal art style. The adventure takes place within the dark, forest-like strands of a filthy carpet. Web site is here.
+3.<b>Spatial Billionaire</b> - is a location-based game, in which, players grow rich by creating businesses and/or working for others in real world locations. Spatial Billionaire is a massively multiplayer online game in a cartoonish art style, with trending features such as virtual economy, users generated contents, idle progress, and social interaction. Web site is here.
+4.<b>Survival</b> - is about how you survive a disaster, and the character will have the ability to foresee the danger and slow the time. Web site is here.
+
+<b>Miscellaneous</b>
+Tech demos from the CS-522 Game Engine Development course. Web site is here.

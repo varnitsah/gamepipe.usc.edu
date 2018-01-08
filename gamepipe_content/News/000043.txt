@@ -1,0 +1,52 @@
+USC GamePipe Fall 2017 Showcase
+12/06/2017
+
+The USC Viterbi School of Engineering celebrates the GamePipe Laboratory’s Fall Showcase on Wednesday the 6th of December 2017, 11am to 2pm Shown at that event will be games & technologies built in classes held in the GamePipe Laboratory Fall semester, including work from the mobile, networked games, game engines & advanced games courses.
+
+REGISTER <a href="https://www.eventbrite.com/e/usc-gamepipe-showcase-tickets-38974324253" rel="external" target="_blank">HERE</a>!
+
+Parking & Directions
+Directions to the USC GamePipe Laboratory are <a href="about.html" title="About">here</a>. We have reserved 40 spaces in Lot 29B, which is enterable from W 27th St at the bend with University Avenue. Please consider taking the Metro Expo Line (23rd St Stop) or Uber to our event! Parking will be quite scarce!
+
+<b>Showcase Agenda</b>
+
+<b>The trailers for the games to be shown at the USC GamePipe Showcase are not yet here.</b>
+
+<b>Advanced Games</b>
+The USC GamePipe Laboratory begins its twelfth year of CSCI-529 Advanced Games, the year-long game design & development course founded by the GamePipe Laboratory's Director, Michael Zyda, in Fall 2005. This year's games include students from multiple curricula throughout USC and outside universities such as the prestigious Game Art & Design Program at the Laguna College of Art & Design. The games chosen in the Spring 2017 contest for development over the next two semesters are the following:
+
+- <a href="http://embeddedgame.com" rel="external" target="_blank">Embedded</a> - is a virtual-reality photography game developed in Unity about journalistic choice and how the media shapes public perception
+- <a href="https://fanthecannon.wixsite.com/fanthecannon" rel="external" target="_blank">Fan the Cannon</a> - is a VR first-person tower defense game, where the player, playing as a dog, defends their house and goldfishes from professional cat thieves, using whatever they can pick up and their paws.
+- <a href="https://www.friendshrimpthegame.com" rel="external" target="_blank">Friendshrimp</a> - Traverse an immersive and destructible world as a colorful crustacean equipped with a legendary pair of fists. Solve puzzles and punch your way through stunning aquascapes as nature's fearsome but fun mantis shrimp.
+- <a href="http://knighterrantgame.com" rel="external" target="_blank">Knight Errant</a> - is a mobile, casual role-playing game that aims to bring casual players the core of the role-playing experience, by avoiding leveling and grinding and hoarding, and focusing on compelling storytelling driven by player choices.
+- <a href="https://vrhymes.com" rel="external" target="_blank">Supernova</a> - is a narrative-driven VR Rhythm Game that puts the player in their own music video and mixed with RPG elements, aims to deliver a fun and fast-paced psychological thriller narrative game.
+- <a href="https://unfolded.blog" rel="external" target="_blank">Unfolded</a> - is an origami, 3D third-person, action-adventure game. In Unfolded, play as Kiri discovering who she is and what she is capable of. Kiri gains the power of folding and unfolding paper into different forms. As the journey unravels, Kiri takes on a variety of dungeons, where she uses her power of folding/unfolding to fight enemies and solve puzzles; all in an attempt to save her paper world.
+- <a href="http://wavebent.com" rel="external" target="_blank">Wavebent</a> - is a 3v3 gravitational brawler. Use physics, waves, and terraforming tech to knock your opponents out of orbit.
+- <a href="https://mr-balloon.weebly.com" rel="external" target="_blank">Mr Balloon</a> - a melancholic VR game taking place in two different time periods where the player goes through memory puzzles to rediscover repressed memories about a childhood friend.
+
+<b>Mobile Games</b>
+- <a href="https://viterbipowerlifters.github.io/CovfefeWebsite/" rel="external" target="_blank">Covfefe</a> - the president is 4 minutes away from pressing the nuclear red button in the oval office. You are an intern in the white house, it is up to you to save the world. Run, avoid obstacles, and solve mini-puzzles in less than 4 minutes to successfully complete the game.
+- <a href="http://www-scf.usc.edu/~tinghsul/csci526/" rel="external" target="_blank">TroKey</a> - the TroKey (Trojan Monkey) will cross many obstacles by monitoring sounds of obstacles and move forward and will ultimately win over UCLA.
+- <a href="https://yinghui-hao.github.io" rel="external" target="_blank">Lady Snake</a> - a snake game based on Chinese history.
+- <a href="https://blackmistthegame.wixsite.com/blackmist" rel="external" target="_blank">Black Mist</a> - you're trapped in a haunted mansion, the only way to escape is to solve the mystery. Find the hidden clues and solve the puzzles. Can you get out alive? Survive or die!
+- <a href="https://chasonzhao.wixsite.com/website" rel="external" target="_blank">CrazyFarm</a> - a crazy tower defense game.
+- <a href="https://krshn368.wixsite.com/pixel" rel="external" target="_blank">Pixel Rush</a> - the city is under attack - run & crush your enemies!
+- <a href="http://www-scf.usc.edu/~nairbali/space-rush/" rel="external" target="_blank">Space Rush</a>- infinite runner through outer space. Available on the Google Play store here!
+- <a href="http://www-scf.usc.edu/~varunagr/ClashAR/" rel="external" target="_blank">ClashAR</a> - an augmented reality game that allows artillery and defenses to be placed on a ground/table in real time. Destroy the village temple with different levels of difficulty. Explore the game in augmented reality and decide where you want to watch/play the game from!
+- <a href="http://iscope.tk" rel="external" target="_blank">iScope</a> - is a single player, 3D, third-person adventure game. You play as a survivor on the earth surrounded by aliens who try to kill you. In order to survive, you need to eliminate aliens and try to dodge their attacks. As far as you success to kill enemies and survive, the score will be increased, and you can gain multiple rewards in return.
+- <b>CrazyPixel</b> - video is <a href="https://www.youtube.com/watch?v=3_qniUJOlA4&amp;index=6&amp;list=PLk-uCfFPN8-riRvYaw1zfdjdeWoNGu-C7" rel="external" target="_blank">here</a>.
+- <b>Debug</b> - video is <a href="https://www.youtube.com/watch?v=wMRoKitS7T0&amp;index=2&amp;list=PLk-uCfFPN8-riRvYaw1zfdjdeWoNGu-C7" rel="external" target="_blank">here</a>.
+- <b>WireLoopAR</b> - video is <a href="https://www.youtube.com/watch?v=9FkObm7X2SU&amp;index=5&amp;list=PLk-uCfFPN8-riRvYaw1zfdjdeWoNGu-C7" rel="external" target="_blank">here</a>.
+
+<b>Networked Games</b>
+- <a href="https://theoozeisloose.github.io" rel="external" target="_blank">The Ooze is Loose</a> - infect your enemies, Raise slimy monstrosities. Dominate the battlefield. A blob shooter game that utilizes a student-design & programmed network infrastructure! A tech paper on this network architecture is <a href="https://venilnoronha.com/how-we-built-a-simple-game-lobby-manager-using-go-and-unity/" rel="external" target="_blank">here</a>.
+- <a href="https://haiwei624.github.io" rel="external" target="_blank">City of Drivers</a> - a game of speed & fire. Drive your favorite car and enjoy unlimited battle in this city. A networked shooter/racing game.
+- <a href="https://haiwei624.github.io" rel="external" target="_blank">City of Drivers</a> - kill all the people on the opposite side to win.
+- <b>Hunt</b> - by reconstructing Monster Hunter by Capcom, the game achieved synchronization of many more objects compared to the original game. A networked game tech demo where the game server is in China.
+
+<b>Various Tech Demos from the Game Engines Course</b>
+- <b>Networked Navigation MOBA demo</b> - Jiajun Shen jiajunsh@usc.edu & Deyu Ma deyuma@usc.edu
+- <b>Maze game demo with particle systems</b> - Yansen Sheng + teammate
+- <b>Tank survival game with animation, physics and graphics tech</b> - Justin Sanny, Alex Longazo, Dario Ceblano
+- <b>Voxel based global illumination & deferred rendering</b> - Adam Rudow
+- <b>Physically Based Rendering</b> - Jonathan DiGiacomo, David Mohrhar

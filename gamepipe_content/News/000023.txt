@@ -1,0 +1,45 @@
+USC GamePipe Laboratory Spring 2016 Showcase
+05/11/2016
+The USC Viterbi School of Engineering celebrates the GamePipe Laboratory’s Spring Showcase on Wednesday the 11th of May 2016, 11am to 2pm Shown at that event will be games & technologies built in classes held in the GamePipe Laboratory Spring semester, including work from the mobile, networked AI, immersive, engines & advanced games courses. 
+
+REGISTER <a href="https://www.eventbrite.com/e/usc-gamepipe-showcase-tickets-21432530275" rel="external" target="_blank">HERE</a>!
+
+Parking & Directions
+Directions to the USC GamePipe Laboratory are here. We have reserved 40 spaces in Lot 29B, which is enterable from W 27th St at the bend with University Avenue. We have reserved an additional 40 spaces in the John Tracy Clinic immediately next door to the USC GamePipe Laboratory. The John Tracy Clinic parking lot entrance is 806 West Adams Blvd, Los Angeles, CA 90007. The JTC Gate code is 5241 ENTER. Please park in the spaces immediately next to the USC GamePipe Laboratory, 746 West Adams Blvd. Please consider taking the Metro or Uber to our event!
+
+<b>Advanced Games</b>
+1. <b>Magnus</b> - soccer in space! Website is <a href="http://magnusarena.com " rel="external" target="_blank">here</a>.
+2. <b>Recall</b> - a mind palace in virtual reality! Website is <a href="http://recallvr.com" rel="external" target="_blank">here</a>.
+3. <b>Possession</b> - galactic war between the Krom & Nexron in an RTS/FPS combination! Website is <a href="http://possession-the-game.com " rel="external" target="_blank">here</a>.
+4. <b>Swarm</b> - a fighting game mechanic merged with a MOBA! Website is <a href="http://swarmmoba.com " rel="external" target="_blank">here</a>.
+5. <b>Project</b> Sollertia - ability focused PvP twitch game - its all about the skill! Website is <a href="http://projectsollertia.weebly.com" rel="external" target="_blank">here</a>.
+6. <b>Sundown</b> - a game about shooting friends in the dark! BAFTA Ones to Watch Award press is <a href="http://awards.bafta.org/award/2016/games/bafta-ones-to-watch-award-in-association-with-dare-to-be-digital" rel="external" target="_blank">here</a>. Website is <a href="http://sundown-game.com" rel="external" target="_blank">here</a>. Trailer is <a href="https://www.youtube.com/watch?v=FNgSAq6tBg4" rel="external" target="_blank">here</a>.
+
+<b>Networked Artificial Intelligence</b>
+<b>Wuli A</b> - We are implementing a Starcraft I AI bot based on the UAlbertaBot. We are optimizing both its macro and micro strategies. At last, we will challenge the world champion of last year. Website is <a href="http://www.tianxiangchang.com/SCAI/" rel="external" target="_blank">here</a>.
+<b>Flash AI</b> - Flash is a StarCraft I bot that aims to be one of the most competitive bots. Flash is guided by heuristic functions that react to the strategy used by enemy. We also design the micro strategy to effectively fight with enemy. Website is <a href="http://www-scf.usc.edu/~xiaoyuag/" rel="external" target="_blank">here</a>.
+<b>AnyBot</b> - AnyBot is a StarCraft II AI that analyzes player strategy and skill and then reacts to counter the player while making intentional mistakes to meet the player's skill level. Website is <a href="http://www-scf.usc.edu/~xiaoyuag/" rel="external" target="_blank">here</a>.
+<b>InstaRailed CTF with AI</b> - Capture the flag in InstaRailed on a new map with AI helpers for each team. There are three types of AI: home base defenders, player supporters, and flag seekers. Website is <a href="http://www-scf.usc.edu/~xiaoyuag/" rel="external" target="_blank">here</a>.
+
+<b>Mobile Games</b>
+<b>The Lost Elephant</b>  - a 3D platformer puzzle game. Navigate through floating islands, avoid enemies, and collect fruit to reach your destination. Website is <a href="http://www-scf.usc.edu/~xiaoyuag/" rel="external" target="_blank">here</a>.
+<b>ZombieEscape VR</b> - the zombie apocalypse is here - in VR! Escape from the zombie infested city using guns and grenades. Website is <a href="https://s3-us-west-1.amazonaws.com/zombieescape/zombie.html" rel="external" target="_blank">here</a>.
+<b>BombRun</b> - a 3D game where the runner keeps running endlessly and bombing enemies in a maze for treasures. Website is <a href="http://bombrun.info" rel="external" target="_blank">here</a>.
+<b>AniHeroes (Animal Heroes)</b>  - a 3D game where animals explore the unknown world. Website is <a href="http://aniheroes.com" rel="external" target="_blank">here</a>.
+<b>A Slime In Time</b> - is a multiplatform, multiplayer, real time strategy game centered around the manipulation of the last minute of gameplay. Players are free to view and commit actions in the past that propagate forward into the future. Website is <a href="http://www.imglow.com/asit.html" rel="external" target="_blank">here</a>.
+<b>Ant-Man Running</b> - an adventure of Ant-man to conquer all difficulties and beat enemies to run and save the world. You can become ant size small and sfly with ant! Website is <a href="http://www-scf.usc.edu/~binghont/AntMan.html" rel="external" target="_blank">here</a>.
+<b>Pokemon Rush</b> - a Pokemon Tower Defense Game. Website is <a href="http://www-scf.usc.edu/~lxiang/cs526/cs526.html" rel="external" target="_blank">here</a>.
+<b>Go! Emoji!</b> - in GoEmoji, you will be playing as an Emoji adventuring to save the world. GoEmoji combines interesting plots, various playing modes and a upgrade system. Website is <a href="http://cs-server.usc.edu:30308/website/emoji_home.html" rel="external" target="_blank">here</a>  .
+<b>Retaliation</b> - a 3D FPS game that gives players control over 3 different characters like Sniper, Assault and Support with unique abilities to take down a much stronger opposition. Website is <a href="https://www-scf.usc.edu/~hemanara/usc/retaliation/retaliation.html" rel="external" target="_blank">here</a>.
+<b>Octopus Run</b> - a 2d side-scrolling infinite runner game for iPhone. In the game, the player gets to help a tiny octopus Nini to run from a crappy shark by jumping around. Players have to evade various obstacles that can slow them down by making Nini jumping over or sliding across the obstacles.
+<b>Watermill</b> - a liquid based puzzle game. The player gets to guide water through different obstacles, mix it to get different colors in order to get watermills moving.
+<b>TikiPong</b> - a multiplayer game for mixed reality platforms simulating a traditional beer pong match against a random opponent. The key experiences from this game are the social element, as well as the trippy visual effects to simulate drunkenness and add gameplay elements that are not found in traditional beer pong.
+<b>Duo.it</b> - a 2-player game on iOS where each player controls a character trying to win the game by knocking the other one off stage. The characters keep spinning which dramatically increases the difficulty and making it comical.
+<b>Dungeon Dancer</b> - a warrior wants to collect all the treasures in a mysterious labyrinth in a dungeon. The dungeon is a world of magic, and every entity can only dance and move `together with the beats of the music. Other monsters in the dungeon are protecting the treasure. How can our dungeon dancer survive such a dilemma?
+<b>Beat Your Self</b> - a 2D shooting adventure game. The goal of this game is to survive from the attacks of your past selves; the enemies will act exactly like you in the previous levels. You should clean all of them, from the previous levels to win.
+<b>Dragon Runner</b> - a VR experience.
+
+<b>Game Engine Development & Other</b>
+<b>TBD</b>
+
+--img-- usc-gamepipe-laboratory-spring-2016-showcase-invite.png

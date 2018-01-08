@@ -1,0 +1,15 @@
+Conversational Intelligence in Virtual Experiences
+04/14/2016
+
+<b>USC GamePipe Laboratory Seminar Series</b>
+Thursday, 14 April 2016, 4:00pm
+<b>Speaker</b>: Alex Mayberry & Leslie Spring, Cognitive Code
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+
+<b>Abstract</b>:
+Cognitive Code will discuss and demonstrate the integration of its portable SILVIA Platform AI system within emerging technology experiences such as Gaming, Virtual and Augmented Reality, IoT Devices and more. We will also discuss the importance of truly conversational interactions as a critical component of emerging technologies and experiences that can
+finally meet user demands and expectations that have been set by decades of exposure to fictional AI systems in various forms entertainment.
+
+<b>Bios</b>:
+<a href="https://www.linkedin.com/in/alex-mayberry-166325" target="_blank">Alex Mayberry</a>
+<a href="https://www.linkedin.com/in/lesliespring" target="_blank">Leslie Spring<br></a>

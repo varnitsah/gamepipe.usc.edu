@@ -1,0 +1,8 @@
+New Courses for Spring 2018!
+01/08/2017
+We have two new courses for Spring semester 2018:
+
+- CSCI-426 Game Prototyping - this course teaches you game design and prototyping and helps you create a pitch for the CSCI-491AB Final Games and CSCI-529AB Advances Games courses. The syllabus is <a href="../resources/Resources/CS-426-Game-Prototyping-Actual.docx" rel="external" target="_blank">here</a>.
+- CSCI-599 Immersive Environments - this is a new course being submitted for approval as CSCI-538 Augmented, Virtual & Mixed Reality. The syllabus is <a href="../resources/Resources/CSCI-538-Augmented,-Virtual-&amp;-Mixed-Reality.docx" rel="external" target="_blank">here</a>.
+
+Sign up now before we run out of seats!!!

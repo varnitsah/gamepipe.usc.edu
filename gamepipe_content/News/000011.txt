@@ -1,0 +1,16 @@
+Physics Simulation in Networked Games
+03/31/2015
+
+--img-- duncanadamson.jpg
+
+<b>USC GamePipe Laboratory Seminar Series</b>
+
+Tuesday 31 March 2015, 10am to noon
+Speaker: Duncan Adamson, Activision
+Location: USC GamePipe Laboratory, EGG-108
+
+<b>Abstract</b>
+In this talk, we summarize the primary issues involved in setting up a distributed, real-time physics simulation and the associated integration with gameplay systems.
+
+<b>Bio</b>
+Duncan Adamson is a Senior physics engineer with 12+ years of experience developing console and PC titles.

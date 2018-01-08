@@ -1,0 +1,18 @@
+Advanced Game Projects Fall 2017 - Spring 2018
+08/31/2017 09:50
+
+Seven advanced games projects have been selected for CSCI-529A & B for Fall 2017 & Spring 2018. The games selected are the following:
+
+- Embedded
+- Fan the Cannon
+- Friendshrimp
+- Knight Errant
+- Supernova
+- Unfolded
+- Wavebent
+
+Information about these games is <a href="https://drive.google.com/drive/folders/0B6gY4d5XJcs1cmRqeVNyclFaTWs" rel="external" target="_blank">here</a>.
+
+Syllabus is <a href="http://gamepipe.usc.edu/finalgames/syllabus.php" rel="external" target="_blank">here</a>.
+
+If you are interested in becoming part of one of these teams, please come to the first class on Thursday the 24th of August 2017 at 3:30pm to see the game design presentations in EGG-108!

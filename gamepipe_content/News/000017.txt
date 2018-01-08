@@ -1,0 +1,17 @@
+Game Data is the New Oil
+12/11/15 15:30
+--img-- anshul-dhawan.png
+
+<b>USC GamePipe Laboratory Seminar Series</b>
+Thursday, 12 November 2015, 3:30pm
+<b>Speaker</b>: Anshul Dhawan, Zynga
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+
+<b>Recorded Talk</b>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bUfRFgU_oeE" frameborder="0" allowfullscreen></iframe>
+
+<b>Abstract</b>
+With the advancement of big data technologies, the data analytics capabilities have increased many folds. Zynga is getting more sophisticated in its optimization techniques to personalize in-game experiences for each player. For the data-centric game development approach to work, it is important to collect the right data all the time. To create successful games in future, great game design with high production quality will not be enough to can keep a million different kind of players engaged. Game developers have to ensure that they are collecting all the data as the player interacts with each aspect of the game. Very granular game data enables diving deeper into analyzing player behaviors that can be used to predict their tenure and spend in the game. As games are a piece of art, data can make the games better, it can’t create the game for you. So maintaining the balance between the science and art is key for creating highly addictive games.
+
+<b>Bio</b>
+Anshul is a Product lead for the Analytics organization at Zynga where he is focusing on bringing a player perspective to all the data technologies. He is leading the machine learning team to create self serve infrastructure that allows games to identify their player profiles. He has worked as senior software engineer for 3 years on Zynga Poker before switching to a product management role on Hit It Rich Slots. He has created personalization tools that helped the game reach Top 10 grossing in a year from launch. He studied game development, design and production at USC’s GamePipe Laboratory.

@@ -1,0 +1,45 @@
+USC GamePipe Laboratory Spring Showcase
+05/10/2017
+
+The USC Viterbi School of Engineering celebrates the GamePipe Laboratory’s Spring Showcase on Wednesday the 10th of May 2017, 11am to 2pm Shown at that event will be games & technologies built in classes held in the GamePipe Laboratory Spring semester, including work from the mobile, networked AI, console games, tools & advanced games courses.
+
+REGISTER <a href="https://www.eventbrite.com/e/usc-gamepipe-showcase-tickets-32570882386" rel="external" target="_blank">HERE</a>!
+
+Parking & Directions
+Directions to the USC GamePipe Laboratory are <a href="about.html" target="_blank">here</a>. We have reserved 40 spaces in Lot 29B, which is enterable from W 27th St at the bend with University Avenue. We have reserved an additional 40 spaces in the John Tracy Clinic immediately next door to the USC GamePipe Laboratory. The John Tracy Clinic parking lot entrance is 806 West Adams Blvd, Los Angeles, CA 90007. The JTC Gate code is 5242 ENTER. Please park in the spaces immediately next to the USC GamePipe Laboratory, 746 West Adams Blvd. Please consider taking the Metro Expo Line (23rd St Stop) or Uber to our event!
+
+<b>Showcase Agenda</b>
+The trailers for the games to be shown at the USC GamePipe Showcase are <a href="trailers.html" target="_blank">here</a>.
+
+<b>Advanced Games</b>
+The USC GamePipe Laboratory begins its eleventh year of CSCI-529 Advanced Games, the year-long game design & development course founded by the GamePipe Laboratory's Director, Michael Zyda, in Fall 2005. This year's games include students from multiple curricula throughout USC and outside universities such as the prestigious Game Art & Design Program at the Laguna College of Art & Design. The games chosen in the Spring 2016 contest for development over the next two semesters are the following:
+
+1. <b>BoltCraft</b>: A cooperative, wave-based, third-person action game where you customize your robot's abilities and appearance and deploy helpful minions to defend yourself and your team against an onslaught of enemies. Web site is <a href="http://boltcraft.net" rel="external" target="_blank">here</a>.
+2. <b>Threshold</b>: A VR escape room experience in a computer generated environment. Web site is <a href="http://projectthreshold.com " rel="external" target="_blank">here</a>.
+3. <b>Polyminis</b>: A sci­fi sandbox game about evolution; the player takes the role of a god­like entity that travels across the universe and guides evolution of species in diverse planets. Web site is <a href="http://polyminis.com" rel="external" target="_blank">here</a>.
+4. <b>Sub-Earth</b>: An underwater first-person virtual reality adventure game, where players experience an immersive subterranean world and use their wits to navigate a series of challenges to achieve their goals. Web site is <a href="https://subearth.github.io" rel="external" target="_blank">here</a>.
+5. <b>Ready or Not</b>: A hide and seek game that brings the excitement of shooters to a non violent scenario. Web site is <a href="http://oddhatsizes.com" rel="external" target="_blank">here</a>.
+6. <b>D.O.P.E</b>: Web site is <a href="https://dopethegame.com" rel="external" target="_blank">here</a>.
+7. <b>Sundown</b> - is a top down shooter where the maps are covered in darkness and light is your enemy, as 4 players compete in a deathmatch to be the best! Web site is here. Steam link is <a href="http://store.steampowered.com/app/419700/" rel="external" target="_blank">here</a>.
+
+<b>Mobile Games</b>
+1. <b>Attack of the Trojans</b> - a multiplayer, first person minion slaying shooter for Google Cardboard. Web site is <a href="http://www-scf.usc.edu/~careymd/ " rel="external" target="_blank">here</a>.
+2. <b>Bleeding Cube</b> - Not-So-Horror Maze Game. Web site is <a href="http://xianhechen.com/csci526/ " rel="external" target="_blank">here</a>.
+3. <b>Dragon's Day Out</b> - is a challenging, thrilling, flying adventure game. Web site is <a href="https://dragonmastersusc.wixsite.com/dragonsdayout " rel="external" target="_blank">here</a>.
+4. <b>Go Go Power Trojans</b> - is a mobile action racing game, push your speed to the limit, level up your characters and cars to beat your enemies! Web site is <a href="http://www-scf.usc.edu/~klien/gogopowertrojans/index.html " rel="external" target="_blank">here</a>.
+5. <b>Jumpers Arena</b> - is a mobile platform racing game. Players can have a match with players online or fight against monsters solo. Customize your character, pick up the props and jump higher! Web site is <a href="https://lixinwei1230.github.io/ " rel="external" target="_blank">here</a>.
+6. <b>Monkey King's Modern Journey</b> - RPG Multiplayer Run & Gun Game. Web site is <a href="https://xuletian901127.wixsite.com/monkeyking " rel="external" target="_blank">here</a>.
+7. <b>Space Oddity</b> - is a 3D runner game where the player goes down an octagonal tube that rotates as the player jumps, avoiding gaps and obstacles on the road, while collecting resources and other power ups.
+8. <b>Super Ape Evolution</b> - top-down view strategy game simulating Ape Evolution. Web site is <a href="http://www.zzjove.com/public " rel="external" target="_blank">here</a>.
+
+Networked AI</b>
+1. <b>Arkology</b> - a virtual reality RTS game. Web site is <a href="http://www.arkologygames.com" rel="external" target="_blank">here</a>.
+2. <b>SoulVision</b> - an adventure strategy game where the player has to encounter and/or fight the intelligent enemy creatures as the game proceeds and plan a strategy to possess the creatures to his advantage in order to crack the codes to find the location of the mysterious Tomb of Eternal Peace. Tensorlflow used! Web site is <a href="https://vritvij.github.io/SoulVision/" rel="external" target="_blank">here</a>.
+3. <b>A Slime in Time</b> - an AR game using the Hololens & AI characters built from neural networks that learn strategies from live players! Web site is <a href="http://www.imglow.com/asit" rel="external" target="_blank">here</a>.
+4. <b>Starcraft II Intelligence</b> - web site is <a href="https://lyuhaoti.wixsite.com/starcraft2ai" rel="external" target="_blank">here</a>.
+5. <b>The Island</b> - third person shooter with director AI, individual AI & procedural music. Web site is <a href="https://anuking92.wixsite.com/theisland" rel="external" target="_blank">here</a>.
+6. <b>Tower Defense AI</b> - 3 different ways to apply machine learning (attack wave, AI player, evaluator). Web site is <a href="https://blizzzard007.github.io/" rel="external" target="_blank">here</a>.
+7. <b>IGT VR</b> - an online VR community. Web site is <a href="https://www.facebook.com/I-STAR-VR-693631964133039/" rel="external" target="_blank">here</a>.
+
+<b>Miscellaneous</b>
+Various tech demos from the Console Game Development & Tools Development courses.

@@ -1,0 +1,17 @@
+USC GamePipe Laboratory Seminar Series
+11/29/2016
+--img-- amit_bhura.png
+
+--img-- jonathan_albaugh.jpg
+
+<b>Title: Introduction to Online Services & Backend infrastructure for Call of Duty</b>
+Tuesday, 29 November 2016, 10:00am
+<b>Speaker</b>: Amit Bhura & Jon Albaugh, Online Team, Activision Treyarch
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>
+When we discuss about game development, we come across disciplines like gameplay, graphics, AI, etc., but a robust online infrastructure is now an almost ubiquitous requirement for a successful title. With the growing demand of networked AAA games, performance and reliability of Online services is as important as any other aspect of the game engine, and these services go far beyond gameplay networking - covering many aspects of backend systems interaction from Social to Big Data. As representatives from the Online team at Treyarch, we will be covering details of some of our services and backend infrastructure. We will be talking about what it takes to keep these Online services running and millions of Call of Duty players connected 24/7.
+
+<b>Bios</b>
+Amit Bhura is a Senior Engineer with Online Team at Treyarch. He has been credited for titles like Black Ops, Black Ops 2 and Black Ops 3. He has worked on many different aspects of Black Ops games, focusing mostly on core online and UI. Over these years he was responsible for shipping In-Game Store and various user content creation systems like Paintshop, Emblem Editor and Gunsmith. He received his MS in Computer Science from USC in 2009 as part of the USC GamePipe Laboratory.
+
+Jon Albaugh is a Software Engineer with the Online Services team at Treyarch. Over his four years at Treyarch he has worked on various systems including tools, gameplay prototypes, UI, and eSports initiatives. Before Treyarch, he worked at Activision and Infinity Ward developing tools to connect systems between studio and publisher. He received a Film Production degree at Loyola Marymount University in 2012, and is a self-taught software engineer.

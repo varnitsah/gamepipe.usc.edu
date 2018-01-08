@@ -1,0 +1,14 @@
+USC GamePipe Laboratory Seminar Series
+10/13/2016
+
+<b>Designing Games for Virtual Reality</b>
+Thursday, 13 October 2016, 3:30pm
+<b>Speaker</b>: St John Colon, USC GamePipe Laboratory & Spaces
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>:
+Guidelines on how to develop immersive virtual reality experiences are presented.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4q5QU8_SGo4" frameborder="0" allowfullscreen=""></iframe>
+
+<b>Speaker Bio</b>:
+St John Colon is an instructor at the USC GamePipe Laboratory as well as Principal Artist for the VR development firm Spaces. His web site is <a href="http://stjohncolon.com" rel="external" target="_blank">here</a>.

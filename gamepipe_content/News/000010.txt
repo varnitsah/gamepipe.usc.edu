@@ -1,0 +1,56 @@
+ADVANCED GAMES PITCH PROCESS
+09/02/2015
+
+“Give a good idea to a mediocre team, and they will screw it up. But give a mediocre idea to a great team, and they will either fix it or come up with something better.” - Ed Catmull
+
+Overview
+
+CSCI-529 is a two-semester advanced game project class by the USC GamePipe Laboratory. Students bring their individual talents as designers, programmers, artists, writers, composers, producers, etc. together in cross-disciplinary teams. Mentors from industry and the faculty are integrated into the process from the start.
+
+<b>Minimum requirements</b>
+Pitch doc: Students must have a pitch document that includes at a minimum, standards set by AGP professors. This must include a project scope. You can find a template you can follow in the following document: Vision Document.
+- The document must not exceed 10 pages
+- In your document include at least a paragraph regarding the game’s innovation
+- At the end of the document you must list the current roster of your team. This should include proposed team leader(s), as well as any other team member you have recruited (including artists). These may be tentative commitments. * Team members cannot be listed in more than one pitch presentation (unless artists)
+
+<b>Teams</b>
+Team members must be eligible to enroll in CSCI-529a and CSCI-529b. Teams must have at least one student acting in the role of Lead Producer, Lead Engineer, Lead Artist and Lead Designer.
+
+<b>Pitch Process</b>
+Pitching process announced at end of Week 2 (Jan 22), on social media (the GamePipe FB group page, the GamePipe Google group mailing list), on the GamePipe classes and on the computer science mailing list.
+Students submit written proposals (the pitch document) by Week 9 (the week after GDC, Mar 13).
+Proposals are vetted by AGP instructors, alumni leads, current leads, and industry guests and the finalists are selected by CSCI-529 instructors.
+Finalists pitch on Pitch Day on Thursday April 23. As the pitch is a teachable moment, all team members are encouraged to attend as audience members. Written feedback will be given to the students the week after the pitch.
+Pitches are judged by a panel that includes AGP instructors, alumni leads, and industry guests using a standardized form. The projects will be judged based on the game idea / goals, scope, creativity, art, product and team.
+Schedule
+Thur, Jan 22	Call for Game Designs
+
+<b>Thursday, Feb 19, 7 pm	General Information Meeting</b>
+- For prospective team leads, members, anyone interested in finding out more about the process
+- Students may email Michael Zyda or St John Colon prior to this meeting with project specific question
+Location: USC GamePipe Lab (EGG 108)
+
+<b>Fri, Mar 13, 6 pm	Proposals due via email</b>
+- Proposals must be submitted via email to Michael Zyda & St John Colon
+- Please use YouSendIt.com to submit proposals larger than 5 mb
+
+<b>Mon, Mar 23	Finalists Announced via email</b>
+- All proposals will be reviewed by the selection committee.
+
+<b> Thursday, Apr 23, 7 pm	Pitch Day</b>
+Finalists present in person to the selection committee.
+Location: USC GamePipe Lab (EGG 108)
+
+<b>Fri, Apr 24,</b>
+Before Midnight - Winners Announced via email.
+
+<b>Professors</b>
+Michael Zyda
+USC Viterbi School of Engineering
+Computer Science / GamePipe Lab
+zyda@usc.edu
+
+St John Colon
+USC Viterbi School of Engineering
+Computer Science / GamePipe Lab
+scolon@usc.edu

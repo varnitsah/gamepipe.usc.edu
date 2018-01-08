@@ -1,0 +1,34 @@
+--START--
+BS in CS (Games)
+http://catalogue.usc.edu/preview_program.php?catoid=7&poid=6696&hl=Computer+Science+Games&returnto=search
+--END--
+
+--START--
+MS in CS (Game Development)
+http://catalogue.usc.edu/preview_program.php?catoid=7&poid=6701&hl=Computer+Science+Game&returnto=search
+--END--
+
+--START--
+PhD in Computer Science (Games)
+http://www.cs.usc.edu/academics/phdbrocure/
+--END--
+
+--START--
+BA in Interactive Entertainment
+http://catalogue.usc.edu/preview_program.php?catoid=7&poid=6265&hl=interactive+entertainment&returnto=search
+--END--
+
+--START--
+MFA in Interactive Media
+http://catalogue.usc.edu/preview_program.php?catoid=7&poid=6268&hl=interactive+entertainment&returnto=search
+--END--
+
+--START--
+2D Game Art & Design Minor
+http://catalogue.usc.edu/preview_program.php?catoid=7&poid=6177&hl=Interactive+Media+Game+design&returnto=search
+--END--
+
+--START--
+3D Game Art & Design Minor
+http://catalogue.usc.edu/preview_program.php?catoid=7&poid=6179&hl=Interactive+Media+Game+design&returnto=search
+--END--

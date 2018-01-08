@@ -1,0 +1,16 @@
+Fall 2017 - CSCI-426 Game Prototyping
+08/14/2017
+--img-- 426_game_prototyping.jpg
+
+The Computer Science Games & Game Development degree programs have a new course CSCI-426 Game Prototyping!
+
+The course is taught by Scott Easley & Dan Arey.
+
+This is an advanced course covering the process of Game Prototyping. Computer Science students will learn modern skills (Design/Engineering/Production) for developing sophisticated games rapidly from concept to finished prototype.
+
+If you are interested in bringing your game idea and team to a class where you can actually build it, this is the course for you!
+
+This course is THE BEST preparation for creating a game design and prototype for submission to the advanced games process!
+
+The syllabus is <a href="../resources">here</a>.
+Sign up now!!!

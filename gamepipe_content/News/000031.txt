@@ -1,0 +1,11 @@
+USC GamePipe Laboratory Seminar Series
+10/17/2016
+<b>Amazon GameDev Roadmap</b>
+Tuesday, 18 October 2016, 10:00am
+<b>Speaker</b>: Michael Edmonds, Head of Education, Amazon Game Services
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>:
+“Cloud and Crowd” technologies for creating cutting edge AAA games and innovative new interactive experiences. With Amazon’s Lumberyard AAA game engine, Amazon Game Services’ GameLift supporting session-based multiplayer games, Amazon Web Services for cloud-based game features, and Twitch, etc.; Amazon brings a broad selection of technologies to bear on video game design and development. Join us to explore an overview of Amazon’s GameDev technologies and their educational offerings in support of student projects and faculty research.
+
+<b>Speaker Bio</b>:
+Michael Edmonds is Head of Education for Amazon Game Services. He is a policy specialist and industry employment researcher with over twenty-five years of experience in entertainment arts and video game development. Prior to Amazon, he launched the Autodesk Media and Entertainment Division’s educational initiatives and ran their outreach programs for over a decade. He’s consulted for SoftImage, the Foundry, and more recently, ran global education policy and outreach at Unity Technologies, Inc. prior to his move to Amazon. Edmonds has testified for the California State Assembly’s Committee On Critical Issues in support of the state’s entertainment economy, and with various state departments of education, accreditation boards, NGOs, the US Department of Education, Congress and the White House on issues of technology, economic development and employment. He is the recipient of two congressional awards for technical innovation and public service.

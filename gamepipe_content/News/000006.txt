@@ -1,0 +1,23 @@
+Networking for Physics Programmers
+11/25/2014
+
+<b>
+USC GamePipe Laboratory Seminar 25 Nov 2014, 10am to Noon, EGG-108
+
+Glenn Fiedler, Senior Programmer
+Respawn Entertainment
+</b>
+
+--img-- glennfiedlerscrunching.jpg
+
+<b>Abstract</b>
+Different game networking models are explored in the context of networking a physics simulation. Attendees will learn pros/cons of different networking approaches and how to apply them to networking their own physics-based games.
+
+<b>Bio</b>
+Glenn Fiedler is a game networking expert with 15 years industry experience and the author of a popular series of articles on game networking and physics at www.gafferongames.com. He's currently working at Respawn Entertainment where he helped push "Titanfall" over the finish line, and post-launch, spends his time *furiously* optimizing bandwidth, load times and anything else that gets in his way. Prior to this, Glenn was lead network programmer at Sony Santa Monica, working on titles such as "God of War: Ascension", "Playstation All-Stars" and "Journey".
+
+<b>Glenn Fiedler's Game Development Articles and Tutorials</b>
+<a href='www.gafferongames.com' target='_blank'>www.gafferongames.com</a>
+
+<b>Shipped Games</b>
+Titanfall, God of War: Ascension, Playstation All-Stars: Battle Royale, Journey, L.A. Noire, God of War III, Mercenaries 2, SWAT 4, Freedom Force vs. The Third Reich, Tribes: Vengeance, Freedom Force.

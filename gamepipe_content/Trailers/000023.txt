@@ -1,0 +1,32 @@
+USC GamePipe Laboratory Fall 2017 Trailers
+
+
+- Advanced Games
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BxF8QwUf5nA" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r67CMAecEDc?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_MvdTChoeRE?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g2EkqRahz3c?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3waf6tnuu3g?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0cCHmv91Aw?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qucIjg22mgg?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YDPATuIi5Kw?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+- Mobile Games
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UISNByfhx2U?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dlOA_Fjz_g8?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xOY3SvZ1Iis?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xvDpcfRRWvc?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3-7R3WgSPQ8?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GEpiBNuD72g?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcllgxbugBo?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HpnC2d-vYM8?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PYOPlNypTsQ?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nw2_d8VFPms?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TQNxBfUCyAY?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b_RsH6OM8F0?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+
+- Networked Games
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3S-2EE0dM_E?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xh5bVOJ0x7k?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rruIuk6gnak?ecver=1" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+

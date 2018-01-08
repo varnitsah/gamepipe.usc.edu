@@ -1,0 +1,13 @@
+Disney Infinity 2.0 - The Connected Experience
+11/11/2014
+
+<b>
+USC GamePipe Laboratory Seminar 11 Nov 2014, 10am to Noon, EGG-108
+
+Jose Villeta, Senior Director, Technology
+Disney Interactive
+The Walt Disney Company
+</b>
+--img-- jose_villeta.jpg
+<b>Abstract</b>
+The future and longevity of video games rely on building a connected experience across all platforms the gamers play and keep the gaming communities involved. This presentation will cover all essential building blocks needed to achieve this while keeping development and network costs in line. From online multiplayer matchmaking needs to social components to business analytics collection and reporting tools to load testing and network scalability to agile DevOps methodologies to cloud development best practices.

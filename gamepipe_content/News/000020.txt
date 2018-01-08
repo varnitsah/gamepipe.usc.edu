@@ -1,0 +1,15 @@
+Geo-Gaming: An Emerging Market Segment of Mobile Gaming
+02/24/16
+
+--img-- brentfriedman.jpg
+<b>USC GamePipe Laboratory Seminar Series</b>
+Wednesday, 24 February 2016, 10:00am
+<b>Speaker</b>: Brent Friedman
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>:
+Expanding mobile gameplay from a small screen into the world at large offers myriad opportunities: non-linear storytelling, physical object integration, a more visceral experience, true social interaction. But each of these opportunities also presents unique challenges when compared with "traditional" mobile gaming. What are the potential rewards and pitfalls, for user and developer and even third party sponsor, of geo-gaming versus the traditional approach? To answer these questions, this talk will contrast traditional development and design practices for mobile gaming with the unique demands of geo-gaming, specifically the technological considerations including bandwidth, beacon limitations and platform restrictions. Finally, we will examine the informative user data metrics gleaned from over twenty-thousand "BattleKasters" players and discuss how this information informs not only geo-gaming, but the future of mobile gaming in general.
+
+<b>Bio</b>:
+As a Creator, Writer and Producer, Brent has more than 25 years of experience in every facet of the entertainment industry with credits on "Mortal Kombat Annihilation," "Star Trek Enterprise," "Star Wars: The Clone Wars" and upcoming credits on "Star Wars Rebels." In games, Brent has worked across all platforms -- console, PC, social & mobile -- as a Narrative Designer and Writer for some of the top companies including Electronic Arts, SCEA, ngmoco, Zynga and 343 Industries, Telltale Games and Roadhouse Interactive. His credits include "Command & Conquer 3: Tiberium Wars," "Empires & Allies," "HALO 4," "Tales from the Borderlands" and the upcoming titles, "The Walking Dead: Michonne" and "Iron Maiden's Legacy of the Beast."
+
+As an entrepreneur, Brent combined his linear media talents and interactive knowledge to found Electric Farm Entertainment, a leading digital media company, where he created and produced four award-winning transmedia web series including "Afterworld" (in conjunction with Sony) and "Valemont" (in partnership with MTV & Verizon.) Recently, Brent co-founded Artifact Technologies, a Seattle-based mobile development lab. At Artifact, Brent oversaw the creation of Mixby, a dynamic, location-based platform that brings mobile media experiences into the real world. Using Mixby, Brent created and produced "BattleKasters," the first geo-game to successfully integrate beacon technology. "BattleKasters" has already been deployed, indoors and outdoors, at nearly a dozen large fan conventions, with multiple new permanent deployments in the works.

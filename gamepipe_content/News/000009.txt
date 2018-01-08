@@ -1,0 +1,65 @@
+USC GamePipe Laboratory Showcase Agenda
+12/10/2014
+
+--img-- tts-2.png
+The USC GamePipe Laboratory celebrates its tenth year of operation December 10 2014, with demonstrations of student-built games running from 11 am to 2 pm.
+
+The Showcase will be a walk around our extensive new facility, allowing visitors to try out games and meet their creators. Students will present new games from the Advanced Games, Mobile Games, and Networked Games courses along with work in advanced game technologies from classes in Game Engine Development and Immersive Games.
+
+<a href="../pages/about.html" target="_blank">Parking & Directions</a>
+
+<h3>USC GamePipe Showcase List of Games & Technologies</h3>
+
+<b>Advanced Games</b>
+--img-- tts-1.png
+Toward the Stars</b> is a co-op, first person action game for PC, in which you and a group of friends take control of a spaceship and experience the wonder and perils of space. From space pirates hi-jacking your ship to accidental kitchen fires, you must band together to make it through the chaos.
+<a href="http://www.towardthestarsgame.com/" target="_blank">http://www.towardthestarsgame.com/</a>
+
+--img-- polyseumss_notext.jpg
+
+<b>Polyseum</b> introduces coordinated team fights and longer lasting combat to the first person shooter genre. In teams of three, players eliminate their opponents by sending them flying into hazards or off the battle stage completely. Teammates combine unique abilities to set up attacks, finish off opponents, and defend each other from enemy assaults. In Polyseum, players live together or die alone.
+<a href="http://www.polyseum.com" target="_blank">http://www.polyseum.com</a>
+
+--img-- lifespark.jpg
+<b>LifeSpark</b> is a fast-paced, casual MOBA where players battle strategically to conquer the map and topple their opponent. Developed for iOS with meaningful, over-arching narrative, LifeSpark is centered around original characters, mechanics, and systems. This unique experience forces players to battle with an unprecedented mindset within each match, creating an immersive and engaging world.
+<a href="http://wp.me/P5ldEq-9" target="_blank">http://wp.me/P5ldEq-9</a>
+
+--img-- apophis.png
+<b>Apophis</b> is a single player third person action adventure game developed at USC Games . Set on the fictional planet of Lahkh, the player assumes role of Koval , a bounty hunter who finds himself bound to mysterious weapons . These weapons grant the player power to manipulate the life force allowing him to breathe life into the dead , and take life from the living , at the cost of his own life force . The gameplay of Apophis primarily focuses on timed combo-based hack 'n' slash combat . It also lets players give commands to NPCs in a tactical squad based fashion , thereby allowing you to raise the fallen to fight with you ."
+<a href="http://www.apophisthegame.com/" target="_blank">http://www.apophisthegame.com/</a>
+
+<b>Mobile Games</b>
+<b>Flick Chess</b> is a multiplayer, strategy game inspired by the sophistication of traditional chess combined with new entertaining elements, and the development is based on SpriteKit and Swift.
+<a href="https://www.youtube.com/watch?v=bgc2g1JxMtQ" target="_blank">https://www.youtube.com/watch?v=bgc2g1JxMtQ</a>
+
+<b>Paper Planes</b> is a challenging 3D game where players explore terrains and fly through hoops as they race against time.
+<a href="https://www.youtube.com/watch?v=gS4J8fProYM&feature=youtu.be" target="_blank">https://www.youtube.com/watch?v=gS4J8fProYM&feature=youtu.be</a>
+
+<b>Helo</b> is a side scrolling flying game that has single player, multiplayer, and experimental ambient light controls.
+
+<b>Fight On Monster!</b> is a plants vs zombies style battle where you send troops out and cast spells to defeat incoming enemies.
+
+<b>The Diary</b> is a 2D snake-like game where you control a party of warriors forming a line, and each warrior has different abilities.
+
+<b>Evolution Theory</b> is an RPG that has a meta-game of evolving the game itself (controls, graphics, sounds, abilities) through your accomplishments in game.
+
+<b>Networked Games & Technologies</b>
+<b>SuperSpeed CTF</b> is a fast-paced first-person capture the flag game, where speed is in demand, staying on the move is crucial, and freezing opponents in their tracks is the primary mode of attack.
+
+<b>Raiders & Dragons</b> is a first person MOBA where players have to retain control of turrets, with the help of abilities, items and minions, to beat the other team in the race against time.
+
+<b>Jesse Buys the World</b> is an RPG game to play the part of a group of brave young men to take adventure while making money on the land of ancient China.
+
+<b>Museum Heist</b>:
+<a href="https://www.youtube.com/watch?v=BoA_yy-hssA" target="_blank">https://www.youtube.com/watch?v=BoA_yy-hssA</a>
+
+<b>Thief vs Guard</b>:
+<a href="https://www.youtube.com/watch?v=pXQd2ewwKOw" target="_blank">https://www.youtube.com/watch?v=pXQd2ewwKOw</a>
+
+<b>Large Scale N-Body Demo</b> - this demo shows how we can scale the real time-AI computations in the games and scientific simulations using multiple-servers in the cloud platform and multiple-clients subscribing to the results.
+
+<b>Game Engine Development</b> - a collection of technology demos from the graduate level CS-522 Game Engine Development course. Projects showcase physics systems, particle engines, rendering systems, network demos, console demos (PS Vita, iPad, Xbox) and more!
+
+<b>Misc</b>
+<b>Booboo</b> is a 2-D puzzle platformer, for the PC. The core mechanic is an ability to teleport between warps.
+<a href="http://andeart.net/dev.html?p=booboo" target="_blank">http://andeart.net/dev.html?p=booboo</a>

@@ -1,0 +1,11 @@
+Sony Playstation
+sony.png
+https://www.playstation.com/en-us/
+
+Intel
+intel.png
+https://www.intel.com/content/www/us/en/homepage.html
+
+Atlassian
+atlassian.jpg
+https://www.atlassian.com

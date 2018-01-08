@@ -1,0 +1,15 @@
+USC GamePipe Laboratory Seminar Series
+14/11/16 14:00
+
+--img-- anshul-dhawan.jpg
+
+<b>Title: Game Analytics for Data Driven Game Development</b>
+Monday, 14 November 2016, 2:00pm
+<b>Speaker</b>: Anshul Dhawan, Product Lead for Growth Team, Zynga
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>
+With advancements in data technologies, the speed of getting feedback has increased many folds that allows for rapid iteration process. Game development process has shifted from “design, develop, release” to “design, develop, release, and fine tune forever”. In the game industry today, analytics is used heavily to develop strategies for monetization and long term player retention. To create successful games, great game design with high production quality is not enough to can keep millions different kind of players engaged. Game developers have to ensure that they are collecting all the data as the player interacts with each aspect of the game. Very granular game data enables diving deeper into analyzing player behaviors that can be used to predict their tenure and spend in the game. As games are a piece of art, data can best inform you on how to make a game better by highlighting the issues, it can’t create the game for you. So maintaining the balance between the science and art is key for creating highly addictive games. Data, psychology, and qualitative player feedback working together can best inform developers. Using data can get you there faster, provide unbiased feedback (depending on who is analyzing it...this isn't perfect) and help ask the right questions.
+<b>Bio</b>
+Anshul Dhawan is a Product lead for the Growth team at Zynga focusing on new game platforms. He recently oversaw the launch of Words with Friends on the new iMessage App Store. Prior to that he was a product lead in the analytics organization at Zynga where he led the development of an experimentation platform and player segmentation/user targeting tool that allows game developers to personalize player journeys inside the game. He joined Zynga as software engineer on Zynga Poker before switching to a product management. He graduated from USC’s GamePipe Laboratory in 2010.
+
+<a href="https://www.linkedin.com/in/anshuldhawan" rel="external" target="_blank">LinkedIn</a> | <a href="https://twitter.com/TheAnshulDhawan" rel="external" target="_blank" style="outline-width: 0px !important; user-select: auto !important;">Twitter</a>

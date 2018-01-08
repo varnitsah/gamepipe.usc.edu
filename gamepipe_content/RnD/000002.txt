@@ -1,0 +1,10 @@
+Elastic Computing Laboratory
+01/27/2014
+
+We are very interested in the application of machine learning to game design and to the behaviors of AI characters.
+
+We are very interested in the integration of models of emotion into AI characters.
+
+We are very interested in augmented & virtual reality games.
+
+If you are interested in a DR in these areas, please come see Professor Michael Zyda.

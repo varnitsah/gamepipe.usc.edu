@@ -1,0 +1,13 @@
+Building Xbox One
+09/24/2015
+
+--img-- gersh-payzer.png
+
+<b>USC GamePipe Laboratory Seminar Series</b>
+Thursday, 24 September 2015, 3:30pm
+<b>Speaker</b>: Gersh Payzer, Microsoft
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>:
+Hear an insider’s perspective on what it was like to build the Xbox One console. Learn insights about the industry that you won’t hear from gaming media. In addition to talking about launching the console, Gersh will also touch on tips for pitching your game to a publisher and getting a job in the industry.
+<b>Bio</b>:
+Gersh Payzer was one of the first engineers on the Xbox One project. He has also worked on Xbox 360, Kinect, Xbox One, ID@Xbox, Twitch and Halo. He is a USC GamePipe alum who worked on an IGF-award winning game as part of the Advanced Games course.

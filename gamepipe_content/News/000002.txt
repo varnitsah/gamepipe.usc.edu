@@ -1,0 +1,16 @@
+USC GamePipe Seminar - Understanding Networking in Multiplayer Games - Best Practices
+01/28/2014
+
+<b>Tuesday, the 28th of January 2014, in RTH-321, 10am to noon</b>
+On his sixth anniversary at Activision/Treyarch, USC GamePipe alumnus, Senior Software Engineer, Bharathwaj 'Bat' Nandakumar﻿ returns to the GamePipe Laboratory to give a technical presentation on how to make really big games.
+
+<b>Abstract:</b>
+Networked multiplayer games have been very popular over the last decade or two. As the games grow bigger, there is the challenge of sending enough data between two devices in a way that their gameplay experience is not compromised. The purpose of this talk is to help you (as a programmer) to architect the networking of a game. You will be able to answer the following:
+
+What network architecture to use? P2P or Client/Server?
+- TCP / UDP?
+- Data Packing
+- Debugging
+- Client Prediction
+- Lag
+- Challenges

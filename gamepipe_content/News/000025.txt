@@ -1,0 +1,19 @@
+Special Class Fall 2016 CS-599 Game Development
+24/08/2016
+
+--img-- khaled-class.jpg
+
+Hello CS Students,
+
+My name is Khaled Abdel Rahman, and I’m a Product Manager at Google. My colleague Dan Arey (Design Director @ Niantic Labs) and I are giving CS 599: Game Development this Fall at USC’s GamePipe Laboratory. The course will focus on Game Design and Production and will be a project-based class, taking you through all the steps needed to build a high quality game prototype. We'll be covering various topics such as developing game worlds, statistical modeling, mobile and location-based games like Pokémon Go, and various game production techniques throughout the entire process. The course should act as a great set up for the year long Advanced Game Projects class.
+
+To give you a bit more of a background, Dan and I have worked together on Location-based games at Niantic Labs, such as Pokémon Go, Ingress, and others. Dan has also previously worked as a Director at Naughty dog and Blizzard, and a large chunk of my experience comes from software and game production at Google, plus Directing Bloom at USC - we believe that we can help you achieve a higher quality standard in Advanced Games and in future roles. For the graduate folks, this course credits count towards your degree and can replace non-core courses. Here’s the course syllabus - note that as last year, the syllabus changes based on class interest and needs!
+
+Attached below you also see last year’s awesome class - most of the students will tell you they had a lot of fun and they all did some great hard work - with many of them now working at Activision, Blizzard, Zynga, and more!
+
+Hope to see you in class soon! Email any questions to me at khaledar@google.com
+
+Thanks,
+Khaled
+--
+Khaled Abdel Rahman | Product Manager | Interesting Stuff @ Google | +1 (614) 339 - 9404

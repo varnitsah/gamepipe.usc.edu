@@ -1,0 +1,11 @@
+USC GamePipe Laboratory Seminar Series - 10am, Tuesday, the 23rd of September 2014
+09/23/2014
+
+--img-- pasted-graphic.jpg
+<b>Ben Stragnell, Senior Director of Online Technology - Activision-Blizzard</b>
+Tour of (Call of) Duty: A look at the online tech behind a large-scale FPS
+10am, Tuesday the 23rd of September 2014, EGG-108
+
+Call of Duty is one of the world’s biggest online first-person-shooter franchises, presenting an interesting set of development challenges. In this talk, we’ll take a look at some of the technology that we use to support a fast-paced game with millions of concurrent players.
+
+<b>Audience Restrictions</b> - this talk is only open to USC GamePipe Laboratory students and faculty. No recording devices, please!

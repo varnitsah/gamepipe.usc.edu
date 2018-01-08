@@ -1,0 +1,24 @@
+USC GamePipe Laboratory Seminar Series
+09/07/2016
+
+<b>SILVIA - AI in a Game Development Pipeline</b>
+Wednesday, 7 September 2016, 10:00am
+<b>Speaker</b>: Alex Mayberry & Leslie Spring, Cognitive Code
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>:
+Cognitive Code will discuss and demonstrate the use of its portable SILVIA Platform AI system in the context of a game development pipeline, with a focus on Unity. This will include developing AI content in SILVIA Studio, creating voices for characters, export and integration with a Unity project and iterative development of conversational game experiences. We will also discuss and demonstrate various types of game experiences that can be developed and enhanced with conversational AI.
+<b>Bios</b>:
+<a href="https://www.linkedin.com/in/alex-mayberry-166325" rel="external" target="_blank">Alex Mayberry</a>
+<a href="https://www.linkedin.com/in/lesliespring" rel="external" target="_blank">Leslie Spring<br></a>
+
+<b>Tutorial Videos</b>
+Here are links to some new video tutorials that Leslie put together on using the development tool.  Feel free to share these with students who might want to get some background before the Wednesday class.  We plan to talk more about the API this time around, and the kinds of things that can be done with SILVIA.
+
+Video 1 is <a href="https://www.youtube.com/watch?v=V1eSShA-ME4" rel="external" target="_blank">here</a>.
+Video 2 is <a href="https://www.youtube.com/watch?v=JFPN6r1vSqE" rel="external" target="_blank">here</a>.
+Video 3 is <a href="https://www.youtube.com/watch?v=ZY4LUl-_Hms" rel="external" target="_blank">here</a>.
+Video 4 is <a href="https://www.youtube.com/watch?v=f37mueXZIKA" rel="external" target="_blank">here</a>.
+Video 5 is <a href="https://www.youtube.com/watch?v=E90tQzd7Tos" rel="external" target="_blank">here</a>.
+Video 6 is <a href="https://www.youtube.com/watch?v=DtVfpKmR88c" rel="external" target="_blank">here</a>.
+
+The YouTube playlist is <a href="https://www.youtube.com/watch?v=V1eSShA-ME4&list=PLC450FjeV3fYN24g_wTuYu994u5nMg38F" rel="external" target="_blank">here</a>.

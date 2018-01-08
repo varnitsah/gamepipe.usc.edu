@@ -1,0 +1,51 @@
+--START--
+mike_zyda.jpg
+http://gamepipe.usc.edu/zyda
+Michael Zyda
+Director, USC GamePipe Laboratory
+--END--
+
+--START--
+scott_easley.jpg
+https://www.linkedin.com/in/scott-easley-b209771
+Scott Easley
+Associate Director, USC GamePipe Laboratory
+--END--
+
+--START--
+artem_kovalovs.jpg
+https://www.linkedin.com/in/artem-kovalovs-a1b8b56
+Artem Kovalovs
+Lecturer, USC GamePipe Laboratory
+Gameplay Programmer, Naughtydog
+--END--
+
+--START--
+st_john_colon.jpg
+http://stjohncolon.com
+St John Colon
+Lecturer, USC GamePipe Laboratory
+--END--
+
+--START--
+jose_villeta.jpg
+https://www.linkedin.com/in/jose-villeta-b8b613
+Jose Villeta
+Lecturer, USC GamePipe Laboratory
+Senior Director, Technology, Disney Interactive Studios
+--END--
+
+--START--
+khaled_abdel_rahman.jpg
+https://www.linkedin.com/in/khaled-abdel-rahman-b25aa377
+Khaled Abdel Rahman
+Lecturer, USC GamePipe Laboratory
+Product Manager, Google
+--END--
+
+--START--
+e_daniel_arey.jpg
+https://www.linkedin.com/in/e-daniel-arey-51a669a4/
+E. Daniel Arey
+Game Designer, Niantic Labs
+--END--

@@ -1,0 +1,45 @@
+USC GamePipe Laboratory Fall 2015 Showcase
+12/10/2015
+
+The USC Viterbi School of Engineering celebrates the GamePipe Laboratory’s Fall Showcase on Thursday the 10th of December 2015, 11am to 2pm Shown at that event will be games & technologies built in classes held in the GamePipe Laboratory Fall semester, including work from the mobile, networked, immersive, engines & advanced games courses.
+
+REGISTER <a href="https://www.eventbrite.com/e/usc-gamepipe-showcase-tickets-18678853955" target="_blank">HERE</a>!
+
+Parking & Directions
+Directions to the USC GamePipe Laboratory are <a href="../pages/about.html" target="_blank">here</a>. We have reserved 40 spaces in Lot 29B, which is enterable from W 27th St at the bend with University Avenue. We have reserved an additional 40 spaces in the John Tracy Clinic immediately next door to the USC GamePipe Laboratory. The John Tracy Clinic parking lot entrance is 806 West Adams Blvd, Los Angeles, CA 90007. The JTC Gate code is 5241 ENTER. Please park in the spaces immediately next to the USC GamePipe Laboratory, 746 West Adams Blvd. Please consider taking the Metro or Uber to our event!
+
+<b>Advanced Games</b>
+1. <b>Magnus</b> - soccer in space! Website is <a href="http://magnusarena.com " rel="external" target="_blank">here</a>.
+2. <b>Recall</b> - a mind palace in virtual reality! Website is <a href="http://recallvr.com" rel="external" target="_blank">here</a>.
+3. <b>Possession</b> - galactic war between the Krom & Nexron in an RTS/FPS combination! Website is <a href="http://possession-the-game.com " rel="external" target="_blank">here</a>.
+4. <b>Swarm</b> - a fighting game mechanic merged with a MOBA! Website is <a href="http://swarmmoba.com " rel="external" target="_blank">here</a>.
+
+<b>Advanced Game Production</b>
+1. <b>Divine Aegis</b> - a 2D endless runner with unique combat.
+2. <b>Elafris</b> - a 2D puzzle platformer with innovative light mechanics. Website is <a href="http://elafris.wix.com/elafris" rel="external" target="_blank">here</a>.
+3. <b>Possession</b> - galactic war between the Krom & Nexron in an RTS/FPS combination! Website is <a href="http://possession-the-game.com " rel="external" target="_blank">here</a>.
+4. <b>Insta Railed</b> - multiplayer fps movement and shooting. Website is <a href="http://scf.usc.edu/~prajpal/cs523/index.html" rel="external" target="_blank">here</a>.
+
+<b>Networked Games</b>
+1. <b>Robo Royale</b> - robots in an arena shooting at each other. Website is <a href="http://www.dixitaditi.com/roboroyale" rel="external" target="_blank">here</a>.
+2. <b>Insta Railed</b> - multiplayer fps movement and shooting. Website is <a href="http://scf.usc.edu/~prajpal/cs523/index.html" rel="external" target="_blank">here</a>.
+3. <b>Andromeda</b> - fast paced 2D space multiplayer shooter. Website is <a href="http://andromeda.imvery.moe" rel="external" target="_blank">here</a>.
+4. <b>Tempo Racing</b> - play the right notes to drive & score points! Website is <a href="http://ivyhuang188.com/TempoRacing/index.html" rel="external" target="_blank">here</a>.
+
+<b>Mobile Games</b>
+1. <b>Intrepid Warrior</b> - 3rd person RPG game! Website is <a href="http://cs-server.usc.edu:2909/csci526/homepage.html" rel="external" target="_blank">here</a>.
+2. <b>MiniBattles</b> - juiced, soccer & rowing! Website is <a href="http://minibattlesmobile.weebly.com" rel="external" target="_blank">here</a>.
+3. <b>The Village</b> - kawaii business simulation game! Website is Website is <a href="http://www.supalikagame.com" rel="external" target="_blank">here</a>.
+4. <b>Perplexus</b> - rotating puzzle toy! <a href="http://www.tianxiangchang.com/CSCI526/" rel="external" target="_blank">here</a>.
+5. <b>Archer School</b> - multiplayer shooter with bows & arrows! Website is <a href="http://gamearcherschool.weebly.com" rel="external" target="_blank">here</a>.
+6. <b>Blackboard Runner</b> - single player, endless runner! Website is <a href="http://cs-server.usc.edu:8479/blackboardRunner/" rel="external" target="_blank">here</a>.
+7. <b>Triple Bubble</b> - endless jewels dropping! <a href="http://www-scf.usc.edu/~zihanton/triple_bubble.html" rel="external" target="_blank">here</a>.
+8. <b>FaceOff</b> - crazy multiplayer face shooter! Web site is <a href="http://faceoffusc.wix.com/home" rel="external" target="_blank">here</a>.
+9. <b>Adrenaline Rush</b> - endless motorcycle racer! Website is <a href="http://adrenalinerush.s3-website-us-east-1.amazonaws.com" rel="external" target="_blank">here</a>.
+10. <b>Google Tango Project</b> - an experiment in augmented reality. Website is <a href="https://shshwdr.wordpress.com/2015/12/01/google-tango-project/" rel="external" target="_blank">here</a>.
+11. <b>Dejarik Game</b> - Website is <a href="https://www.youtube.com/watch?v=95VD0UmrJXA" rel="external" target="_blank">here</a>.
+
+<b>Game Engine Development & Other</b>
+1. <b>Showfinder</b> - is a skill for the Amazon Echo that fetches events happening in a city of your choice on a given date. It also fetches additional details about the event including its time, location, Uber ride price &amp; time estimates. Website is <a href="https://sites.google.com/site/alexaskillshowfinder/" rel="external" target="_blank">here</a>
+
+--img-- invite-usc-gamepipe-showcase-fall-2015.png

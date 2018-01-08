@@ -1,0 +1,17 @@
+Microservices Architecture
+01/26/2016
+
+--img-- 072162e.jpg
+<b>USC GamePipe Laboratory Alumni Seminar Series</b>
+Tuesday, 26 January 2016, 10:00am
+<b>Speaker</b>: Dhruv Thukral, Amazon Web Services
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+
+
+<b>Video of Talk</b>:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuLBP75y64g" frameborder="0" allowfullscreen=""></iframe>
+
+<b>Abstract</b>:
+We are very familiar with the typical client server architecture that powers most games. Utilizing typical Service Oriented Architecture (or SOA) as a software development paradigm for breaking up large systems into more manageable independent components has been the way of the past and is still a good model to follow. With the advent of the cloud however a new approach is becoming more popular, the MicroServices approach. This approach involves each implementing a specific API to enable event driven software for full responsiveness. Basically, Microservices are small, autonomous services that work together. This talk will go over what makes up a micro services architecture, its key benefits and how it differs from SOA.
+<b>Bio</b>:
+Dhruv Thukral is a gaming solutions architect at AWS. He works with various gaming customers across the mobile, social, console, and PC space and helps them launch successful titles and platforms on AWS. Prior to joining AWS, Dhruv was the lead back-end architect at Electronic Arts and worked on the Origin platform. He also held various senior technical leadership positions in successful startups such as AdColony and Neverblue. Dhruv is passionate about gaming and helped build the USC Games Program, which has become the No. 1 ranked games program in the nation.

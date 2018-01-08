@@ -1,0 +1,13 @@
+USC GamePipe Laboratory Seminar Series
+11/10/2016
+
+--img-- pokemon_go_title.jpg
+
+<b>Title: Creation of planet-scale shared augmented realities: Pokémon GO and Ingress</b>
+Thursday, 10 November 2016, 3:30pm
+<b>Speaker</b>: Ed Wu, Senior Product Manager, Niantic
+<b>Location</b>: USC GamePipe Laboratory, EGG-108
+<b>Abstract</b>
+The ubiquity of mobile phones coupled with the availability of highly scalable NoSQL databases and containerized cloud computing infrastructure has enabled Niantic to create coherent augmented realities encompassing millions of users in a single, consistent experience overlaid on top of the real world in multiple titles, first on Ingress and subsequently on Pokémon GO. The latter has been downloaded over 500 million times and has inspired players to walk more than 4.6 billion kilometers. Niantic has conclusively demonstrated that augmented reality in practice is as much about the data and shared world state as it is about immersive hardware technology still on the horizon. We will discuss the challenges of implementing and operating a planet-scale service with demanding latency and consistency constraints, in the face of usage 50x planned capacity.
+<b>Bio</b>
+Ed Wu is a Senior Product Manager at Niantic who leads the engineering team of Pokémon GO as well as the Niantic Seattle site. Before helping to lead Niantic from its successful spin-out from Google, Dr. Wu was a Staff Software Engineer at Google where he developed machine learning models in ads quality. He received his PhD from Stanford in Physics in 2009 applying Bayesian parameter estimation models to cosmological data.

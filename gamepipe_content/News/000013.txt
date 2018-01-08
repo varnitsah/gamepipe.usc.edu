@@ -1,0 +1,51 @@
+USC GamePipe Showcase Spring 2015 Program
+05/13/2015
+--img-- usc-gamepipe-laboratory.jpg
+EGG-Building
+
+The USC GamePipe Laboratory celebrates its end of school year Showcase on the May 13 2015, with demonstrations of student-built games running from 11 am to 2 pm.
+
+The Showcase will be a walk around our extensive facility, allowing visitors to try out games and meet their creators. Students will present new games from the Advanced Games, Mobile Games, and Networked AI courses along with work in advanced game technologies from classes in Game Engine Development and Immersive Games.
+
+Register <a href="https://www.eventbrite.com/e/usc-gamepipe-laboratory-showcase-tickets-15792184850" target="_blank">here!</a>
+
+The trailers for the games shown are Register <a href="../../pages/trailers.html" target="_blank">here</a>.
+
+<b>Parking & Directions</b>
+Directions to the USC GamePipe Laboratory are a href="../../pages/about.html" target="_blank">here</a>. We have reserved 40 spaces in Lot 29B, which is enterable from W 27th St at the bend with University Avenue. We have reserved an additional 40 spaces in the John Tracy Clinic immediately next door to the USC GamePipe Laboratory. The John Tracy Clinic parking lot entrance is 806 West Adams Blvd, Los Angeles, CA 90007. The JTC Gate code is 5241 ENTER. Please park in the spaces immediately next to the USC GamePipe Laboratory, 746 West Adams Blvd. Please consider taking the Metro or Uber to our event!
+
+
+<h4><b>USC GamePipe Showcase List of Games & Technologies</b></h4>
+
+<b>Advanced Games:</b>
+
+<b>Toward the Stars</b> is a co-op, first person action game for PC, in which you and a group of friends take control of a spaceship and experience the wonder and perils of space. From space pirates hi-jacking your ship to accidental kitchen fires, you must band together to make it through the chaos.<br><a href="http://www.towardthestarsgame.com/" target="_blank">http://www.towardthestarsgame.com/</a>
+
+<b>Polyseum</b> introduces coordinated team fights and longer lasting combat to the first person shooter genre. In teams of three, players eliminate their opponents by sending them flying into hazards or off the battle stage completely. Teammates combine unique abilities to set up attacks, finish off opponents, and defend each other from enemy assaults. In Polyseum, players live together or die alone. <br><a href="http://www.polyseum.com" target="_blank">http://www.polyseum.com</a>
+
+<b>LifeSpark</b> is a fast-paced, casual MOBA where players battle strategically to conquer the map and topple their opponent. Developed for iOS with meaningful, over-arching narrative, LifeSpark is centered around original characters, mechanics, and systems. This unique experience forces players to battle with an unprecedented mindset within each match, creating an immersive and engaging world.<br><a href="http://wp.me/P5ldEq-9" target="_blank">http://wp.me/P5ldEq-9</a>
+
+<b>Apophis</b> is a single player third person action adventure game developed at USC Games . Set on the fictional planet of Lahkh, the player assumes role of Koval , a bounty hunter who finds himself bound to mysterious weapons . These weapons grant the player power to manipulate the life force allowing him to breathe life into the dead , and take life from the living , at the cost of his own life force . The gameplay of Apophis primarily focuses on timed combo-based hack 'n' slash combat . It also lets players give commands to NPCs in a tactical squad based fashion , thereby allowing you to raise the fallen to fight with you ."<br><a href="http://www.apophisthegame.com/" target="_blank">http://www.apophisthegame.com/</a>
+
+
+<b>Mobile Games:</b>
+
+- <b>Escape From Aphelion</b> - A young space explorer must use his rare set of skills to reassemble his spaceship and escape from the seemingly endless planet, Aphelion.
+- <b>GravitonMarathon</b> - shift gravity side scroller!
+- <b>Nova</b> - Nova is a iPad music game which merges music game and planet simulation factors together to provide unique music playing experience for each user.
+- <b>Oristein</b> - A combination of matching game and RPG, requires relatively high frequency operation. Moving and matching tiles to collect runes.
+- <b>DeBomber</b> - A fast-twist game that challenges your eyesight and reaction capability.
+- <b>Fight for Zion</b> - Fight For ZiON is a tower defense game. The player needs to arrange different kinds of towers and special powers on the map to prevent the robot army from invading human's base.
+- <b>Spice Runner</b> - An indian spice adventurer, set to take on the resurgent army troops with a last chance for retrieving back the precious indian spices.
+- <b>Whack-A-Bunny</b> - Fast paced addicting casual mobile game.
+
+<b>Networked AI:</b>
+
+- <b>Lord of the Beasts</b> -
+- <b>Polyminis</b> - More than a game, Polyminis is a 2D-Sandbox environment for emergent behaviors. Using bio-inspired techniques, like neural networks and genetic algorithms, the system evolves intelligent agents that can tackle high-level goals.
+- <b>Starcraft AI</b> - we build a game AI that fights against the contest winning AIs in Starcraft.
+
+<b>Native Console Multiplayer:</b>
+
+- <b>Empire Wars</b> - Empire Wars is a middle-age multiplayer RTS game
+- <b>Sniper Wars</b> - Multiplayer Sniper Deathmatch
