@@ -1,15 +1,12 @@
 USC GamePipe Laboratory Spring 2016
-
-All Trailers in One HD Stream
+- All Trailers in One HD Stream
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UpJiIEGrmnE" frameborder="0" allowfullscreen=""></iframe>
-
 - Advanced Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yHc55Z1eoZ0" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faLCUNpxuHo" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iCEC36JhTVE" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZzS1dukyn8" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7AmOE8HIZ_I" frameborder="0" allowfullscreen=""></iframe>
-
 - Mobile Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wVZjirt9tX8" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yj-bsP-dP3I" frameborder="0" allowfullscreen=""></iframe>
@@ -28,12 +25,10 @@ All Trailers in One HD Stream
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBuk3k8LG-A" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBZmfAP9rtI" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sWxspeH2-2Y" frameborder="0" allowfullscreen=""></iframe>
-
 - Networked AI
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bshvxDJmkNM" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wbQjJlp0Wj4" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKJjTowmUbw" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3M1wOjmHWKQ" frameborder="0" allowfullscreen=""></iframe>
-
 - Student Pics AY 2015 - 2016
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4ZX0BtBzU0" frameborder="0" allowfullscreen=""></iframe>

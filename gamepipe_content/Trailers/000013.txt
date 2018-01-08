@@ -1,5 +1,4 @@
 USC Games Spring 2012 Demo Day Trailers
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qbhnCrfBCRU" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V_-TK3228AE" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/68wW4br3HTw" frameborder="0" allowfullscreen=""></iframe>

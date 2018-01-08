@@ -1,5 +1,4 @@
 USC GamePipe Laboratory Fall 2014 Trailers
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ph6PEjp7gg8" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/29Pmu5SOv3U" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m8Op9zGwKb0" frameborder="0" allowfullscreen=""></iframe>

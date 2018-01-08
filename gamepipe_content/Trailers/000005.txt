@@ -1,5 +1,4 @@
 USC GamePipe Laboratory Spring 2008 Demo Day Trailers
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RN_IaGR9FCM" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2P9y9oUO4A" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YJk5gW02gp4" frameborder="0" allowfullscreen=""></iframe>

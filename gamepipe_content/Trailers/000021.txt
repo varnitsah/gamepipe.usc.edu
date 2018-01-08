@@ -1,20 +1,16 @@
 USC GamePipe Laboratory Fall 2016 Trailers
-
 - All Trailers in One Stream
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t1i-YYA02h8" frameborder="0" allowfullscreen=""></iframe>
-
 - Advanced Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XVmQDLQGGYg" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WDo-jGo23Yw" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1tvM389KRBY" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ku2hfH4_xes" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PhmafZ89OM8" frameborder="0" allowfullscreen=""></iframe>
-
 - Game Development
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BLUjcvp6I2M" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SIRhlH1_nFE" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TFRAKWh7Lko" frameborder="0" allowfullscreen=""></iframe>
-
 - Mobile Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JGmkRVJ7HVo" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sh3vCcUph9o" frameborder="0" allowfullscreen=""></iframe>
@@ -31,7 +27,6 @@ USC GamePipe Laboratory Fall 2016 Trailers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UDJgEldaSME" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syCdzMF7d2I" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WCMLYtmy8SA" frameborder="0" allowfullscreen=""></iframe>
-
 - Networked Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6-sWG5qyS0" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JN111kNLW7Q" frameborder="0" allowfullscreen=""></iframe>

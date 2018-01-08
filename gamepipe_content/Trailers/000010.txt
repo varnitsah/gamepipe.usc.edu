@@ -1,5 +1,4 @@
 USC GamePipe Laboratory Fall 2010 Demo Day Trailers
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/311sWSCPrUI" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/miKNVckPsI4" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xQF0BkQiEt4" frameborder="0" allowfullscreen=""></iframe>

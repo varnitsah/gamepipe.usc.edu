@@ -1,5 +1,4 @@
 USC GamePipe Laboratory Spring 2017 Trailers
-
 - Advanced Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_GCB7feWOCg?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3GxDt7Voxwc?ecver=1" frameborder="0" allowfullscreen=""></iframe>
@@ -8,7 +7,6 @@ USC GamePipe Laboratory Spring 2017 Trailers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2yX34VFKRlk?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oYUce3TXLww?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3M5vlt5cN7M?ecver=1" frameborder="0" allowfullscreen=""></iframe>
-
 - Mobiles Games
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iUJd0rd9-2c?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UlFtHh8N10c?ecver=1" frameborder="0" allowfullscreen=""></iframe>
@@ -23,7 +21,6 @@ USC GamePipe Laboratory Spring 2017 Trailers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZAtXEauA2A?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OsE4HsdVgck?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/okVmlswjVYs?ecver=1" frameborder="0" allowfullscreen=""></iframe>
-
 - Networked AI
 <iframe width="560" height="315" src="https://www.youtube.com/embed/esEQ5EICc8Q?ecver=1" frameborder="0" allowfullscreen=""></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yi7Gsutw6hI?ecver=1" frameborder="0" allowfullscreen=""></iframe>
